@@ -1,6 +1,6 @@
 # Sample AdvancedHMI application
 ## Usage
-* Download and unzip [https://github.com/drbitboy/ahmi_drbitboy_fifo/raw/master/ahmi_drbitboy_fifo.zip](ahmi_drbitboy_fifo.zip)
+* Download and unzip [ahmi_drbitboy_fifo.zip](https://github.com/drbitboy/ahmi_drbitboy_fifo/raw/master/ahmi_drbitboy_fifo.zip)
   * Load cyclical_shift.RSS into RSLogix/Studio 5xxx
   * Fix Ethernet Comm 1 on MicroLogix 1100 (ML1100)
   * Set ML1100 to RUN
