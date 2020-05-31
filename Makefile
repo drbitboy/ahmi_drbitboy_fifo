@@ -1,7 +1,7 @@
 README.md: Makefile ahmi_drbitboy_fifo.zip
 	( echo '# Sample AdvancedHMI application' | tr Q \\n \
 	; echo '## Usage' | tr Q \\n \
-	; echo '* Download and nzip ahmi_drbitboy_fifo.zip' \
+	; echo '* Download and unzip ahmi_drbitboy_fifo.zip' \
 	; echo '  * Load cyclical_shift.RSS into RSLogix/Studio 5xxx' \
 	; echo '  * Fix Ethernet Comm 1 on MicroLogix 1100 (ML1100)' \
 	; echo '  * Set ML1100 to RUN' \
