@@ -1,12 +1,13 @@
 # Sample AdvancedHMI application
 ## Usage
 * Download and nzip ahmi_drbitboy_fifo.zip
-** Load cyclical_shift.RSS into RSLogix/Studio 5xxx
-** Fix Ethernet Comm 1 on MicroLogix 1100 (ML1100)
-** Set ML1100 to RUN
+  * Load cyclical_shift.RSS into RSLogix/Studio 5xxx
+  * Fix Ethernet Comm 1 on MicroLogix 1100 (ML1100)
+  * Set ML1100 to RUN
 * Execute Release/AdvancedHME.exe application
-** Type IP address for ML1100 into AdvancedHMI.exe application
-** Click [Rotate FIFO] button
+  * Type IP address for ML1100 into AdvancedHMI.exe application
+  * Click [Rotate FIFO] button
+
 # Contents of ZIP archive
 
     Archive:  ahmi_drbitboy_fifo.zip
